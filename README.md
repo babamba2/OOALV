@@ -4,8 +4,11 @@ ALV for OO (Paek)
 Modern OO-based ALV Program.
 No PERFORM syntax in a program.
 
-Created by Paek Seunghyun
-Check linkedin 
+Created by Paek Seunghyun.
+Check linkedin.
+<a href="https://www.linkedin.com/in/seunghyun-paek-5b83b7183/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seunghyun-paek-5b83b7183/)
 
 Screen 0100.
