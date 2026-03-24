@@ -34,8 +34,13 @@ CLASS LCL_DATA IMPLEMENTATION.
 
   METHOD GET_DATA.
 
-    SELECT EKKO~*,
-           EKPO~*
+    SELECT EKKO~EBELN,
+           EKKO~BSART,
+           EKKO~LIFNR,
+           EKPO~EBELP,
+           EKPO~MENGE,
+           EKPO~MEINS,
+           EKPO~NETPR
       FROM EKKO
       INNER JOIN EKPO
               ON EKKO~EBELN = EKPO~EBELN
